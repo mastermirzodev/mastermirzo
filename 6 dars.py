@@ -13,6 +13,6 @@ Created on Wed Jan 17 20:40:28 2024
 
 cars = ['bmw', 'malubi', 'damas', 'volvo', 'byd', 'audi']
 
-# print(cars.sort(reverse=True))
-# print(sorted(cars))
+print(cars.sort(reverse=True))
+print(sorted(cars))
 print(cars.sort(reverse=True))
